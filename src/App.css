@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+}
+#header{
+  background-color: rgb(19, 216, 216);
+  text-align: center;
+}
+.productlist{
+  background-color: rgba(95, 158, 160, 0.567);
+  width: fit-content;
+  margin: 10px;
+  padding: 10px ;
+  border-radius: 10px;
+
+}
+.products{
+  display: flex;
+
+ }
+.image{
+  height: 300px;
+  width: 300px;
+}
+.btn{
+  padding: 10px 30px;
+  background-color: rgba(0, 0, 255, 0.186);
+}
+
+.box{
+  background-color: rgba(139, 0, 139, 0.584);
+  width: fit-content;
+  margin: 10px;
+}

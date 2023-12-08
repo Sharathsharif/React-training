@@ -1,0 +1,7 @@
+function capital(){
+const []
+
+
+
+
+}
